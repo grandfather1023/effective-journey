@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      "@astock/panel-licensing@4.0.2",
+      "/apps/jenkins/2.319.3/workspace/CCLibrariesPanel_release_3.19"
+    ]
+  ],
+  "_from": "@astock/panel-licensing@4.0.2",
+  "_id": "@astock/panel-licensing@4.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-HYvUD8si31zlGBumohsVgdsKoU0=",
+  "_location": "/@astock/panel-licensing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@astock/panel-licensing@4.0.2",
+    "name": "@astock/panel-licensing",
+    "escapedName": "@astock%2fpanel-licensing",
+    "scope": "@astock",
+    "rawSpec": "4.0.2",
+    "saveSpec": null,
+    "fetchSpec": "4.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/@astock/panel-licensing/-/@astock/panel-licensing-4.0.2.tgz",
+  "_spec": "4.0.2",
+  "_where": "/apps/jenkins/2.319.3/workspace/CCLibrariesPanel_release_3.19",
+  "author": "",
+  "description": "Embedded panel that hosts the Panel Licensing Service UI",
+  "license": "UNLICENSED",
+  "main": "index.jsx",
+  "name": "@astock/panel-licensing",
+  "repository": {
+    "type": "git",
+    "url": "https://git.corp.adobe.com/AdobeStock/panel-licensing"
+  },
+  "version": "4.0.2"
+}
