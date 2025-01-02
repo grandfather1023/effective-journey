@@ -1,0 +1,22 @@
+{
+  "id": "com.adobe.stock.panel.licensing-embedded",
+  "name": "Stock Licensing Plugin",
+  "version": "4.0.2",
+  "main": "index.html",
+  "manifestVersion": 4,
+  "host": [
+    {
+      "app": "PS",
+      "minVersion": "22.0.0"
+    }
+  ],
+  "entrypoints": [
+    {
+      "type": "command",
+      "id": "adobeStockLicensingPlugin",
+      "label": {
+        "default": "Adobe Stock Licensing Plugin"
+      }
+    }
+  ]
+}
